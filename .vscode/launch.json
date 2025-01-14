@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FaturamentoDistribuidora",
+            "request": "launch",
+            "mainClass": "FaturamentoDistribuidora",
+            "projectName": "Questoes_b731c669"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciChecker",
+            "request": "launch",
+            "mainClass": "FibonacciChecker",
+            "projectName": "Questoes_b731c669"
+        },
+        {
+            "type": "java",
+            "name": "InversorDeString",
+            "request": "launch",
+            "mainClass": "InversorDeString",
+            "projectName": "Questoes_b731c669"
+        },
+        {
+            "type": "java",
+            "name": "PercentualFaturamento",
+            "request": "launch",
+            "mainClass": "PercentualFaturamento",
+            "projectName": "Questoes_b731c669"
+        },
+        {
+            "type": "java",
+            "name": "SomaIndice",
+            "request": "launch",
+            "mainClass": "SomaIndice",
+            "projectName": "Questoes_b731c669"
+        }
+    ]
+}
